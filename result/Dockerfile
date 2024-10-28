@@ -1,4 +1,3 @@
-# this is a test text
 FROM node:18-slim
 
 # add curl for healthcheck
